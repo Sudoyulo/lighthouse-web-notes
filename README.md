@@ -1,6 +1,12 @@
-#Kevin's
+# Kevin's Notes 
+<br>
 
-Notes for LHL by [Kevin](https://github.com/Sudoyulo)
+# Summary
+Kevin's notes for LHL by [Kevin](https://github.com/Sudoyulo)
+
+<br>
+
+# Table of Contents
 
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
